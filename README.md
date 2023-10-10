@@ -1,6 +1,8 @@
-# screen2
+# SmoothIndicator
 
-A new Flutter project.
+Another Flutter project that uses Smooth Indicator and various other properties.
+# Screen Shots Attached
+![Collage Maker-06-Oct-2023-04-10-PM-6944](https://github.com/divyshukla15/SmoothIndicator/assets/69780857/7be6b1f7-fd8c-424d-8cf6-44cd71feaecf)
 
 ## Getting Started
 
