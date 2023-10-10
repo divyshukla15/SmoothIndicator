@@ -21,10 +21,11 @@ class Card4 extends StatelessWidget {
               child: Column(
                 children: [
                   Padding(
+                  
                     padding: const EdgeInsets.only(left: 34.0, right: 34.0),
                     child: Image.asset(imgBig[pageChange]),
                   ),
-                  const SizedBox(height: 44),
+                  const SizedBox(height: 38),
                   Padding(
                     padding: const EdgeInsets.only(left: 12.0, right: 12.0),
                     child: Text(

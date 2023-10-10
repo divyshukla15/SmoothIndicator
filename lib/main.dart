@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     fontSize: 40,
                     fontFamily: "Aregular"),
               ),
-              const SizedBox(height: 20),
+              const SizedBox(height: 10),
 
               SizedBox(
                
